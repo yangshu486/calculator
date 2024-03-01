@@ -1,0 +1,9 @@
+D:\Study\c#\计算器\计算器\计算器\bin\Debug\计算器.exe.config
+D:\Study\c#\计算器\计算器\计算器\bin\Debug\计算器.exe
+D:\Study\c#\计算器\计算器\计算器\bin\Debug\计算器.pdb
+D:\Study\c#\计算器\计算器\计算器\obj\Debug\计算器.Form1.resources
+D:\Study\c#\计算器\计算器\计算器\obj\Debug\计算器.Properties.Resources.resources
+D:\Study\c#\计算器\计算器\计算器\obj\Debug\计算器.csproj.GenerateResource.cache
+D:\Study\c#\计算器\计算器\计算器\obj\Debug\计算器.csproj.CoreCompileInputs.cache
+D:\Study\c#\计算器\计算器\计算器\obj\Debug\计算器.exe
+D:\Study\c#\计算器\计算器\计算器\obj\Debug\计算器.pdb
